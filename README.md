@@ -13,7 +13,7 @@
 </div>
 
 
-I'm an ambitious and dedicated individual who is excited to make an impact in the tech industry. With a strong foundation in real estate, I bring adaptability, communication, and attention to detail to the world of software engineering. I'm always eager to learn new technologies, languages, and methodologies to create innovative solutions that make a positive difference in people's lives.
+I'm an ambitious and dedicated individual who is excited to make an impact in the tech industry. With a strong foundation in Customer Service and Healthcare, I bring adaptability, communication, and attention to detail to the world of software engineering/software development - enthusiastic about learning new technologies, languages, and methodologies. I'm eager to be part of a diverse and passionate team dedicated to creating efficient consumer and business friendly solutions.
 
 <div align="center">
 ### 🔭 Technologies & Tools I've Learned:
@@ -34,7 +34,7 @@ I'm an ambitious and dedicated individual who is excited to make an impact in th
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![SpringTool](https://img.shields.io/badge/-SpringToolSuite4-6DB33F?style=flat-square&logo=SpringToolSuite4&logoColor=Green)
+![SpringTool](https://img.shields.io/badge/-SpringToolSuite4-6DB33F?style=flat-square&logo=SpringTool&logoColor=White)
  
 </div>
 - Languages: Python, JavaScript, Java, HTML5, CSS
@@ -89,7 +89,7 @@ I'm an ambitious and dedicated individual who is excited to make an impact in th
 <div align="center">
 
   <br>
-  <a href="https://linkedin.com/in/JavierRodriguez001%22%3E<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-top: 10px;"/></a>
+<a href="https://linkedin.com/in/JavierRodriguez001 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-top: 10px;"/></a>
 
 
 </div>
