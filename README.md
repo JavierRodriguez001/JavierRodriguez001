@@ -1,14 +1,14 @@
 
 <div align="center">
 
-# Hi there, I'm Javier Rodriguez 👋💪🏽
+# Hi, I'm Javier Rodriguez 👋💪
 
 </div>
 
 ## A passionate Web Developer transitioning from a successful Customer service & Healthcare industry 🏡💻
 <div align="center">
 
-![Programming GIF]([https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif))
+![Programming GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)
  
 </div>
 
