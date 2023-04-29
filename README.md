@@ -8,7 +8,7 @@
 ## A passionate Web Developer transitioning from a successful Customer service & Healthcare industry 💻
 <div align="center">
 
-![Programming GIF](https://media.giphy.com/media/wGEymBvo6FUlR9bbda/giphy-downsized-large.gif)
+![Programming GIF](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif)
  
 </div>
 
