@@ -1,14 +1,4 @@
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 
 # Hi there, I'm Javier Rodriguez 👋💪🏽
@@ -33,7 +23,6 @@ I'm an ambitious and dedicated individual who is excited to make an impact in th
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -45,7 +34,8 @@ I'm an ambitious and dedicated individual who is excited to make an impact in th
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
+![SpringTool](https://img.shields.io/badge/-SpringToolSuite4-6DB33F?style=flat-square&logo=SpringToolSuite4&logoColor=Green)
+ 
 </div>
 - Languages: Python, JavaScript, Java, HTML5, CSS
 - Frontend Development: React, Bootstrap, jQuery, AJAX
@@ -63,7 +53,7 @@ I'm an ambitious and dedicated individual who is excited to make an impact in th
 </div>
 <div align="center">
 
-![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierRodriguez001&show_icons=true&theme=dark)
+![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierRodriguez001&show_icons=true&theme=onedark)
  
 </div>
 <div align="center">
