@@ -1,11 +1,11 @@
 
 <div align="center">
 
-# Hi, I'm Javier Rodriguez 👋💪
+# Hi, I'm Javier! 👋💪
 
 </div>
 
-## A passionate Web Developer transitioning from a successful Customer service & Healthcare industry 💻
+## An adaptable Web Developer transitioning from a successful Customer service & Healthcare industry 💻
 <div align="center">
 
 ![Programming GIF](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif)
@@ -89,7 +89,7 @@ I'm an ambitious and dedicated individual who is excited to make an impact in th
 <div align="center">
 
   <br>
-<a href="https://linkedin.com/in/JavierRodriguez001 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-top: 10px;"/></a>
+ <a href="https://linkedin.com/in/JavierRdriguez001"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-top: 10px;"/></a>
 
 
 </div>
@@ -98,4 +98,4 @@ I'm an ambitious and dedicated individual who is excited to make an impact in th
 
 ---
 
-Feel free to check out my repositories and projects! If you'd like to collaborate or learn more about my work, don't hesitate to reach out. I'm always looking to do more and expand my horizons!
+Feel free to reach out at any time! I'm always looking to expand my knowledge and connect for a better tomorrow!
